@@ -1,0 +1,21 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.followers {
+    font-size: 2em;
+}
+
+.counter {
+    font-size: 4em;
+}
